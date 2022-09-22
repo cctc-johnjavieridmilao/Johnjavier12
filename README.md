@@ -3,9 +3,6 @@
 I am full-stack web developer skilled in (PHP,CODEIGNITER,LARAVEL,VUE JS,SQL), passionate about creating and developing interactive webapps. 
 I have 3 years experience in this area of work, with multiple quality of projects.
 
-<!--
-**Johnjavier12/Johnjavier12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
