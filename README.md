@@ -3,14 +3,22 @@
 I am full-stack web developer skilled in (PHP,CODEIGNITER,LARAVEL,VUE JS,SQL), passionate about creating and developing interactive webapps. 
 I have 3 years experience in this area of work, with multiple quality of projects.
 
-Here are some ideas to get you started:
+Tools I work upon:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- PHP CORE
+- LARAVEL
+- CODEIGNITER
+- MYSQL
+- API
+- MSSQL
+- JAVASCRIPT
+- VUE JS
+- HTML
+- CSS
+- VUETIFY
+- BOOTSTRAP
+- VS CODE
+- SQL SERVER
+- MYSQL WORKBENCH
+- IIS
 
