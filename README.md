@@ -12,7 +12,8 @@ Technologies that i used when building awesome webapps
 - CODEIGNITER
 - MYSQL
 - API
-- MSSQL
+- REST API WEB SERVICES
+- MS SQL SERVER
 - JAVASCRIPT
 - VUE JS
 - HTML
