@@ -1,6 +1,6 @@
 ### Hi there awesome devs👋
 
-I am full-stack web developer skilled in (PHP,CODEIGNITER,LARAVEL,VUE JS,SQL), passionate about creating and developing interactive webapps. 
+I am full-stack web developer skilled in (PHP, CODEIGNITER, LARAVEL, VUE JS, SQL, REACT), passionate about creating and developing interactive webapps. 
 I have 3 years experience in this area of work, with multiple quality of projects.
 
 ### Tech Stack:
@@ -16,6 +16,7 @@ Technologies that i used when building awesome webapps
 - MS SQL SERVER
 - JAVASCRIPT
 - VUE JS
+- REACT JS
 - HTML
 - CSS
 - VUETIFY
