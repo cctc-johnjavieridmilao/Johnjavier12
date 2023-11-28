@@ -23,6 +23,7 @@ Technologies that i used when building awesome webapps
 - BOOTSTRAP
 - VS CODE
 - SQL SERVER
+- GIT/GITHUB/BITBUCKET
 - MYSQL WORKBENCH
 - IIS
 - Xampp
